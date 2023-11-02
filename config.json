@@ -1,0 +1,84 @@
+{
+  "prontoproPro": {
+    "maintenanceMode": true,
+    "appStoreURL": "https://apps.apple.com/us/app/prontopro-pro/id6444160173",
+    "playStoreURL": "https://play.google.com/store/apps/details?id=com.prontopro.pro",
+    "minimumSupportedVersionIos": "",
+    "minimumSupportedVersionCodeIos": "",
+    "minimumSupportedVersionAndroid": "",
+    "minimumSupportedVersionCodeAndroid": ""
+  },
+  "prontoproConsumer": {
+    "maintenanceMode": true,
+    "appStoreURL": "https://apps.apple.com/us/app/prontopro-finde-deinen-profi/id6444311289",
+    "playStoreURL": "https://play.google.com/store/apps/details?id=com.prontopro.consumer",
+    "minimumSupportedVersionIos": "",
+    "minimumSupportedVersionCodeIos": "",
+    "minimumSupportedVersionAndroid": "",
+    "minimumSupportedVersionCodeAndroid": ""
+  },
+  "homerunPro": {
+    "maintenanceMode": true,
+    "appStoreURL": "https://apps.apple.com/us/app/homerun-service-provider/id144751162102",
+    "playStoreURL": "https://play.google.com/store/apps/details?id=com.homerun.pro",
+    "minimumSupportedVersionIos": "",
+    "minimumSupportedVersionCodeIos": "",
+    "minimumSupportedVersionAndroid": "",
+    "minimumSupportedVersionCodeAndroid": ""
+  },
+  "homerunConsumer": {
+    "maintenanceMode": true,
+    "appStoreURL": "https://apps.apple.com/us/app/homerun-get-things-done/id1506390428",
+    "playStoreURL": "https://play.google.com/store/apps/details?id=com.homerun.customer",
+    "minimumSupportedVersionIos": "",
+    "minimumSupportedVersionCodeIos": "",
+    "minimumSupportedVersionAndroid": "",
+    "minimumSupportedVersionCodeAndroid": ""
+  },
+  "armutPro": {
+    "maintenanceMode": true,
+    "appStoreURL": "https://apps.apple.com/us/app/armut-hizmet-veren/id1127741595",
+    "playStoreURL": "https://play.google.com/store/apps/details?id=com.armut.armuthv",
+    "minimumSupportedVersionIos": "",
+    "minimumSupportedVersionCodeIos": "",
+    "minimumSupportedVersionAndroid": "",
+    "minimumSupportedVersionCodeAndroid": ""
+  },
+  "armutConsumer": {
+    "maintenanceMode": true,
+    "appStoreURL": "https://apps.apple.com/us/app/armut-hizmet-pi%C5%9F-a%C4%9Fz%C4%B1ma-d%C3%BC%C5%9F/id1028966163",
+    "playStoreURL": "https://play.google.com/store/apps/details?id=com.armut.armutha",
+    "minimumSupportedVersionIos": "",
+    "minimumSupportedVersionCodeIos": "",
+    "minimumSupportedVersionAndroid": "",
+    "minimumSupportedVersionCodeAndroid": ""
+  },
+  "messages": {
+    "maintenanceMode": {
+      "en": "Maintenance mode is activated",
+      "de": "Der Wartungsmodus ist aktiviert",
+      "ar": "تم تنشيط وضع الصيانة",
+      "cz": "je aktivován režim údržby",
+      "fr": "le mode maintenance est activé",
+      "hu": "a karbantartási mód aktiválva van",
+      "it": "la modalità manutenzione è attivata",
+      "pl": "tryb konserwacji jest włączony",
+      "ro": "modul de întreținere este activat",
+      "es": "El modo de mantenimiento está activado",
+      "tr": "Bakım Modu Etkin"
+    },
+    "forceUpdate": {
+      "en": "A new version is available. Please update the app.",
+      "de": "Eine neue Version ist verfügbar. Bitte aktualisieren Sie die App.",
+      "ar": "هناك نسخة جديدة متاحة. الرجاء تحديث التطبيق.",
+      "cz": "Je k dispozici nová verze. Prosím, aktualizujte aplikaci.",
+      "fr": "Une nouvelle version est disponible. Veuillez mettre à jour l'application.",
+      "hu": "Új verzió elérhető. Kérem frissítse az alkalmazást.",
+      "it": "È disponibile una nuova versione. Si prega di aggiornare l'app.",
+      "pl": "Dostępna jest nowa wersja. Proszę zaktualizować aplikację.",
+      "ro": "O nouă versiune este disponibilă. Vă rugăm să actualizați aplicația.",
+      "es": "Hay una nueva versión disponible. Por favor, actualiza la aplicación.",
+      "tr": "Yeni bir sürüm mevcut. Lütfen uygulamayı güncelleyin."
+    }
+  }
+}
