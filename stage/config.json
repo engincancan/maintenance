@@ -6,7 +6,7 @@
     "minimumSupportedVersionIos": "",
     "minimumSupportedVersionCodeIos": "",
     "minimumSupportedVersionAndroid": "",
-    "minimumSupportedVersionCodeAndroid": "100"
+    "minimumSupportedVersionCodeAndroid": "10"
   },
   "prontoproConsumer": {
     "maintenanceMode": true,
