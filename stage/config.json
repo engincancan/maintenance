@@ -15,7 +15,7 @@
     "minimumSupportedVersionIos": "",
     "minimumSupportedVersionCodeIos": "",
     "minimumSupportedVersionAndroid": "",
-    "minimumSupportedVersionCodeAndroid": ""
+    "minimumSupportedVersionCodeAndroid": "100"
   },
   "homerunPro": {
     "maintenanceMode": true,
