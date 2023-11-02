@@ -6,7 +6,7 @@
     "minimumSupportedVersionIos": "",
     "minimumSupportedVersionCodeIos": "",
     "minimumSupportedVersionAndroid": "",
-    "minimumSupportedVersionCodeAndroid": "10"
+    "minimumSupportedVersionCodeAndroid": "0"
   },
   "prontoproConsumer": {
     "maintenanceMode": false,
@@ -15,7 +15,7 @@
     "minimumSupportedVersionIos": "",
     "minimumSupportedVersionCodeIos": "",
     "minimumSupportedVersionAndroid": "",
-    "minimumSupportedVersionCodeAndroid": "100"
+    "minimumSupportedVersionCodeAndroid": "0"
   },
   "homerunPro": {
     "maintenanceMode": true,
@@ -24,7 +24,7 @@
     "minimumSupportedVersionIos": "",
     "minimumSupportedVersionCodeIos": "",
     "minimumSupportedVersionAndroid": "",
-    "minimumSupportedVersionCodeAndroid": ""
+    "minimumSupportedVersionCodeAndroid": "0"
   },
   "homerunConsumer": {
     "maintenanceMode": true,
@@ -33,7 +33,7 @@
     "minimumSupportedVersionIos": "",
     "minimumSupportedVersionCodeIos": "",
     "minimumSupportedVersionAndroid": "",
-    "minimumSupportedVersionCodeAndroid": ""
+    "minimumSupportedVersionCodeAndroid": "0"
   },
   "armutPro": {
     "maintenanceMode": true,
@@ -42,7 +42,7 @@
     "minimumSupportedVersionIos": "",
     "minimumSupportedVersionCodeIos": "",
     "minimumSupportedVersionAndroid": "",
-    "minimumSupportedVersionCodeAndroid": ""
+    "minimumSupportedVersionCodeAndroid": "0"
   },
   "armutConsumer": {
     "maintenanceMode": true,
@@ -51,7 +51,7 @@
     "minimumSupportedVersionIos": "",
     "minimumSupportedVersionCodeIos": "",
     "minimumSupportedVersionAndroid": "",
-    "minimumSupportedVersionCodeAndroid": ""
+    "minimumSupportedVersionCodeAndroid": "0"
   },
   "messages": {
     "maintenanceMode": {
