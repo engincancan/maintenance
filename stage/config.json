@@ -9,10 +9,10 @@
     "minimumSupportedVersionCodeAndroid": "0"
   },
   "prontoproConsumer": {
-    "maintenanceMode": true,
+    "maintenanceMode": false,
     "appStoreURL": "https://apps.apple.com/us/app/prontopro-finde-deinen-profi/id6444311289",
     "playStoreURL": "https://play.google.com/store/apps/details?id=com.prontopro.consumer",
-    "minimumSupportedVersionIos": "",
+    "minimumSupportedVersionIos": "1.0.10",
     "minimumSupportedVersionCodeIos": "",
     "minimumSupportedVersionAndroid": "",
     "minimumSupportedVersionCodeAndroid": "0"
