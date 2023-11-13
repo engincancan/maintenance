@@ -1,9 +1,9 @@
 {
   "prontoproPro": {
-    "maintenanceMode": false,
+    "maintenanceMode": true,
     "appStoreURL": "https://apps.apple.com/us/app/prontopro-pro/id6444160173",
     "playStoreURL": "https://play.google.com/store/apps/details?id=com.prontopro.pro",
-    "minimumSupportedVersionIos": "",
+    "minimumSupportedVersionIos": "1.0.7",
     "minimumSupportedVersionCodeIos": "",
     "minimumSupportedVersionAndroid": "",
     "minimumSupportedVersionCodeAndroid": "0"
