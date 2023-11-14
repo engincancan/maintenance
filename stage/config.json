@@ -1,9 +1,9 @@
 {
   "prontoproPro": {
-    "maintenanceMode": true,
+    "maintenanceMode": false,
     "appStoreURL": "https://apps.apple.com/us/app/prontopro-pro/id6444160173",
     "playStoreURL": "https://play.google.com/store/apps/details?id=com.prontopro.pro",
-    "minimumSupportedVersionIos": "1.0.7",
+    "minimumSupportedVersionIos": "0",
     "minimumSupportedVersionCodeIos": "",
     "minimumSupportedVersionAndroid": "",
     "minimumSupportedVersionCodeAndroid": "0"
@@ -12,7 +12,7 @@
     "maintenanceMode": false,
     "appStoreURL": "https://apps.apple.com/us/app/prontopro-finde-deinen-profi/id6444311289",
     "playStoreURL": "https://play.google.com/store/apps/details?id=com.prontopro.consumer",
-    "minimumSupportedVersionIos": "1.0.10",
+    "minimumSupportedVersionIos": "0",
     "minimumSupportedVersionCodeIos": "",
     "minimumSupportedVersionAndroid": "",
     "minimumSupportedVersionCodeAndroid": "0"
