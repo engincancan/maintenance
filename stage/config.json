@@ -18,7 +18,7 @@
     "minimumSupportedVersionCodeAndroid": "0"
   },
   "homerunPro": {
-    "maintenanceMode": true,
+    "maintenanceMode": false,
     "appStoreURL": "https://apps.apple.com/us/app/homerun-service-provider/id144751162102",
     "playStoreURL": "https://play.google.com/store/apps/details?id=com.homerun.pro",
     "minimumSupportedVersionIos": "",
@@ -27,7 +27,7 @@
     "minimumSupportedVersionCodeAndroid": "0"
   },
   "homerunConsumer": {
-    "maintenanceMode": true,
+    "maintenanceMode": false,
     "appStoreURL": "https://apps.apple.com/us/app/homerun-get-things-done/id1506390428",
     "playStoreURL": "https://play.google.com/store/apps/details?id=com.homerun.customer",
     "minimumSupportedVersionIos": "",
@@ -36,7 +36,7 @@
     "minimumSupportedVersionCodeAndroid": "0"
   },
   "armutPro": {
-    "maintenanceMode": true,
+    "maintenanceMode": false,
     "appStoreURL": "https://apps.apple.com/us/app/armut-hizmet-veren/id1127741595",
     "playStoreURL": "https://play.google.com/store/apps/details?id=com.armut.armuthv",
     "minimumSupportedVersionIos": "",
@@ -45,7 +45,7 @@
     "minimumSupportedVersionCodeAndroid": "0"
   },
   "armutConsumer": {
-    "maintenanceMode": true,
+    "maintenanceMode": false,
     "appStoreURL": "https://apps.apple.com/us/app/armut-hizmet-pi%C5%9F-a%C4%9Fz%C4%B1ma-d%C3%BC%C5%9F/id1028966163",
     "playStoreURL": "https://play.google.com/store/apps/details?id=com.armut.armutha",
     "minimumSupportedVersionIos": "",
